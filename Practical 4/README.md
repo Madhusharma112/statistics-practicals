@@ -1,4 +1,3 @@
-# Practical 4
 
 ## Dataset
 Teaching Ratings Dataset
