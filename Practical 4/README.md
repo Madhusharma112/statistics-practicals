@@ -1,6 +1,6 @@
 
 ## Dataset
-Teaching Ratings Dataset
+ProfEvaltnsBeautyPublic.csv
 
 ## Objective
 To perform data analysis and visualization using the Teaching Ratings dataset.
