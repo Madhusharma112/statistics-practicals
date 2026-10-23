@@ -52,20 +52,5 @@ The `ProfEvaltnsBeautyPublic.csv` dataset contains information about professors,
 
 This practical demonstrates the use of Pandas for data exploration, descriptive statistics, and group-based analysis. Matplotlib is used to visualize the distribution of beauty scores, while gender-based comparisons help summarize differences in beauty scores and tenure status.
 
-## How to Run
-
-1. Clone or download the repository.
-
-2. Install Python and Jupyter Notebook.
-
-3. Install the required libraries:
-
-   ```bash
-   pip install pandas matplotlib jupyter
-   ```
-
-4. Open `Practical_5.ipynb` in Jupyter Notebook.
-
-5. Ensure that `ProfEvaltnsBeautyPublic.csv` is in the appropriate directory.
 
 6. Run the notebook cells sequentially to perform the analysis.
