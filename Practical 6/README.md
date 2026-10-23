@@ -44,4 +44,3 @@ To examine the strength and direction of the linear relationship between teachin
 
 This practical demonstrates the application of statistical hypothesis testing and correlation analysis to the Teaching Ratings dataset. The results can be interpreted using test statistics and p-values to determine whether the observed differences and relationships are statistically significant.
 
-m the statistical analysis.
