@@ -44,20 +44,4 @@ To examine the strength and direction of the linear relationship between teachin
 
 This practical demonstrates the application of statistical hypothesis testing and correlation analysis to the Teaching Ratings dataset. The results can be interpreted using test statistics and p-values to determine whether the observed differences and relationships are statistically significant.
 
-## How to Run
-
-1. Clone or download the repository.
-
-2. Install Python and Jupyter Notebook.
-
-3. Install the required libraries:
-
-   ```bash
-   pip install pandas numpy scipy jupyter
-   ```
-
-4. Open `practical 6.ipynb` in Jupyter Notebook.
-
-5. Ensure that `teachingratings.csv` is available in the appropriate directory.
-
-6. Run the notebook cells sequentially to perform the statistical analysis.
+m the statistical analysis.
