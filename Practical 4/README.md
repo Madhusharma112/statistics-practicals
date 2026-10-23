@@ -38,7 +38,3 @@ The `ProfEvaltnsBeautyPublic.csv` dataset contains information about professors,
 ## Conclusion
 
 This practical demonstrates how Pandas can be used for data cleaning, duplicate detection, and descriptive statistical analysis. Matplotlib is used to visualize and compare average teaching evaluation scores across course divisions.
-
-5. Place `ProfEvaltnsBeautyPublic.csv` in the appropriate directory.
-
-6. Run the notebook cells sequentially to perform the analysis and generate the visualization.
